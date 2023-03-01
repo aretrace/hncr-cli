@@ -1,0 +1,11 @@
+name: hncr-cli
+version: 0.1.1
+license: MIT
+
+dependencies:
+  opts:
+    github: maiha/opts.cr
+  crayon:
+    github: molovo/crayon
+  hncr:
+    github: aretrace/hncr
